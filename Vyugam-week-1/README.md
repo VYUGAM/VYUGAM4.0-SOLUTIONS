@@ -32,5 +32,5 @@ Refer the solutions available in various languages.
 
 1. QUANTITATIVE APTITUDE - [Area-solution](https://drive.google.com/file/d/14qKkCwuAXyNaAfX2fca-taz_vU853B0I/view?usp=sharing)
 2. LOGICAL APTITUDE - [Necessary-part-selection](https://drive.google.com/file/d/1cO2t2Kj5qBnilmdgf1AqdVJV2uHOIp6o/view?usp=sharing)
-3. VERBAL APTITUDE - [Directions-to-solve](https://drive.google.com/file/d/1EO-44Y8pwCg2ZQI1LRabAqR4xGPVC8Dv/view?usp=sharing)
+3. VERBAL APTITUDE - [Ordering-of-sentences](https://drive.google.com/file/d/1EO-44Y8pwCg2ZQI1LRabAqR4xGPVC8Dv/view?usp=sharing)
 4. TECHNICAL APTITUDE - [Expressions](https://drive.google.com/file/d/1iOSRlBn8cDGSwtdGDzd6jF2Zim5zhSoE/view?usp=sharing)
