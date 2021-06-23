@@ -1,4 +1,6 @@
-# Solutions for VYUGAM week 1 
+# VYUGAM 4.0 WEEK1 SOLUTIONS 
+
+# I) CODING
 
 ## Problem set-1
 Read the editorial present in the practice section problems below:
@@ -25,3 +27,5 @@ Refer the solutions available in various languages.
 ### Problem-list
 * Upperwall  - EASY
 * Camelcase  - EASY
+
+# II) APTITUDE
