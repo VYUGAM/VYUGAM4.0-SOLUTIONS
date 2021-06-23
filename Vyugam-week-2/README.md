@@ -5,6 +5,6 @@ Find the topics and study resources for vyugam 4.0 week2 in the below google doc
 
 # VYUGAM 4.0 WEEK2 SOLUTIONS
 
-# CODING
+# I) CODING
 
-# APTITUDE
+# II) APTITUDE
