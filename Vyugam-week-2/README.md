@@ -39,7 +39,7 @@ Refer the solutions available in various languages.
 
 # II) APTITUDE
 
-1. QUANTITATIVE APTITUDE - [Time-and-distance]()
-2. LOGICAL APTITUDE - [Blood-relation]()
-3. VERBAL APTITUDE - [Synonyms]()
-4. TECHNICAL APTITUDE - [Strings]()
+1. QUANTITATIVE APTITUDE - [Time-and-distance](https://drive.google.com/file/d/1sXNjCrnTrJJNId1GqNdCTsffmlKDitl-/view?usp=sharing)
+2. LOGICAL APTITUDE - [Blood-relation](https://drive.google.com/file/d/16ofkqPk0-R7MrKz7jBvuPAOg5qiGGbWS/view?usp=sharing)
+3. VERBAL APTITUDE - [Synonyms](https://drive.google.com/file/d/1JfLyzEL9IdBWq6NE3T37MCwysMK37TFd/view?usp=sharing)
+4. TECHNICAL APTITUDE - [Strings](https://drive.google.com/file/d/1amx1lOZCg-9Y3ikLXNUQkZUwgPwncSne/view?usp=sharing)
