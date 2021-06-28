@@ -32,7 +32,7 @@ Refer the solutions available in various languages.
 ### Problem-list
 * SOLID HALF DIAMOND  - EASY
 * KARANS ASSIGNMENT - EASY
-* 
+
 # II) APTITUDE
 
 1. QUANTITATIVE APTITUDE - [Time-and-distance]()
