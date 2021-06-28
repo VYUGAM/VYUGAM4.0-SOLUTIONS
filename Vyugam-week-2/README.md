@@ -11,6 +11,8 @@ Find the topics and study resources for vyugam 4.0 week2 in the below google doc
 Read the editorial present in the practice section problems below:
 [contest-link-set1](https://www.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-2/)
 <br>
+Editorial in pdf format : [link](https://drive.google.com/file/d/1XagD0JqfurvDrLl6BDnJ8NiNq_teR9ju/view?usp=sharing)
+<br>
 Refer the solutions available in various languages.
 <br>
 
@@ -25,6 +27,8 @@ Refer the solutions available in various languages.
 ## Problem set-2
 Read the editorial present in the practice section problems below:
 [contest-link-set2](https://www.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-1-7/)
+<br>
+Editorial in pdf format : [link](https://drive.google.com/file/d/1Xz-jpevXdJne6oerzJOK5GKFfCqJSSmj/view?usp=sharing)
 <br>
 Refer the solutions available in various languages.
 <br>
