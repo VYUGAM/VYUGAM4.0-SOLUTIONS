@@ -3,8 +3,10 @@
 Find the topics and study resources for vyugam 4.0 week2 in the below google docs: <br>
 [link to vyugam4.0 week3 study resources](https://docs.google.com/document/d/1cXyKJtGKdDmwfKrr_R2d-4zmJzJpjas5XDNcwJTaQsg/edit?usp=sharing)
 
-# VYUGAM 4.0 WEEK2 SOLUTIONS
+# VYUGAM 4.0 WEEK3 SOLUTIONS
 
+Solutions will be available once the contest ends!!
+<!---- >
 # I) CODING
 
 ## Problem set-1
