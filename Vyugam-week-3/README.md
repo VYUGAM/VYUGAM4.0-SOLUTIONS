@@ -41,6 +41,6 @@ Refer the solutions available in various languages.
 # II) APTITUDE
 
 1. QUANTITATIVE APTITUDE - [pipes-and-cisterns](https://drive.google.com/file/d/1dGe-4980NrJn71JqojPOY99BsmP4rPYH/view?usp=sharing)
-2. LOGICAL APTITUDE - []()
-3. VERBAL APTITUDE - []()
+2. LOGICAL APTITUDE - [course-of-action](https://drive.google.com/file/d/1mX7uV46XfrRArF45abfpVBNc7geqlJry/view?usp=sharing)
+3. VERBAL APTITUDE - [idioms-and-phrases](https://drive.google.com/file/d/1QYqiEq3LVNkxw7xcJLkyvf5D9QFp9bF2/view?usp=sharing)
 4. TECHNICAL APTITUDE - [type-def](https://drive.google.com/file/d/1x6h6Z4juTvC74XIi7ixXLeuWJhUwYB-U/view?usp=sharing)
