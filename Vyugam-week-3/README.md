@@ -8,7 +8,10 @@ Find the topics and study resources for vyugam 4.0 week2 in the below google doc
 # I) CODING
 
 ## Problem set-1
-Read the editorial present in the practice section problems below:
+Read the editorial present in the practice section problems below:practice link = >
+<a href="https://www.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-2-3/">
+  <img src="https://cutshort.io/horizontal-og-image?img=https://cdn.cutshort.io/public/companies/57317456399e504f321f7f5d/hackerearth-logo" width="48"> 
+</a>
 [contest-link-set1](https://www.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-2-3/)
 <br>
 Editorial in pdf format : [link](https://drive.google.com/file/d/1FEUymSVvGWYh2dTjNYZiU2g95UTWZ-ER/view?usp=sharing)
@@ -25,7 +28,10 @@ Refer the solutions available in various languages.
 5. SQL - Pattern matching(2 LL's)
 
 ## Problem set-2
-Read the editorial present in the practice section problems below:
+Read the editorial present in the practice section problems below:practice link = >
+<a href="https://www.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-2-2/">
+  <img src="https://cutshort.io/horizontal-og-image?img=https://cdn.cutshort.io/public/companies/57317456399e504f321f7f5d/hackerearth-logo" width="48"> 
+</a>
 [contest-link-set2](https://www.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-2-2/)
 <br>
 Editorial in pdf format : [link](https://drive.google.com/file/d/1JZn2QGlrdGjtiXXPduhf3unytf_3MsBn/view?usp=sharing)
