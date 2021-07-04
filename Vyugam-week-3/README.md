@@ -6,14 +6,14 @@ Find the topics and study resources for vyugam 4.0 week2 in the below google doc
 # VYUGAM 4.0 WEEK3 SOLUTIONS
 
 Solutions will be available once the contest ends!!
-<!---- >
+
 # I) CODING
 
 ## Problem set-1
 Read the editorial present in the practice section problems below:
-[contest-link-set1]()
+[contest-link-set1](https://www.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-2-3/)
 <br>
-Editorial in pdf format : [link]()
+Editorial in pdf format : [link](https://drive.google.com/file/d/1FEUymSVvGWYh2dTjNYZiU2g95UTWZ-ER/view?usp=sharing)
 <br>
 Refer the solutions available in various languages.
 <br>
@@ -23,9 +23,9 @@ Refer the solutions available in various languages.
 
 ## Problem set-2
 Read the editorial present in the practice section problems below:
-[contest-link-set2]()
+[contest-link-set2](https://www.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-2-2/)
 <br>
-Editorial in pdf format : [link]()
+Editorial in pdf format : [link](https://drive.google.com/file/d/1JZn2QGlrdGjtiXXPduhf3unytf_3MsBn/view?usp=sharing)
 <br>
 Refer the solutions available in various languages.
 <br>
@@ -35,7 +35,7 @@ Refer the solutions available in various languages.
 
 # II) APTITUDE
 
-1. QUANTITATIVE APTITUDE - 
-2. LOGICAL APTITUDE - 
-3. VERBAL APTITUDE - 
-4. TECHNICAL APTITUDE - 
+1. QUANTITATIVE APTITUDE - []()
+2. LOGICAL APTITUDE - []()
+3. VERBAL APTITUDE - []()
+4. TECHNICAL APTITUDE - []()
