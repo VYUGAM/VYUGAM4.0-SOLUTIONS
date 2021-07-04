@@ -8,7 +8,8 @@ Find the topics and study resources for vyugam 4.0 week2 in the below google doc
 # I) CODING
 
 ## Problem set-1
-Read the editorial present in the practice section problems below:
+Read the editorial present in the practice section problems below: practice link = >
+<img src="https://cutshort.io/horizontal-og-image?img=https://cdn.cutshort.io/public/companies/57317456399e504f321f7f5d/hackerearth-logo" width="48"> 
 [contest-link-set1](https://www.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-2/)
 <br>
 Editorial in pdf format : [link](https://drive.google.com/file/d/1XagD0JqfurvDrLl6BDnJ8NiNq_teR9ju/view?usp=sharing)
@@ -25,7 +26,8 @@ Refer the solutions available in various languages.
     * ELITE EMPLOYEE
 
 ## Problem set-2
-Read the editorial present in the practice section problems below:
+Read the editorial present in the practice section problems below: practice link = >
+<img src="https://cutshort.io/horizontal-og-image?img=https://cdn.cutshort.io/public/companies/57317456399e504f321f7f5d/hackerearth-logo" width="48"> 
 [contest-link-set2](https://www.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-1-7/)
 <br>
 Editorial in pdf format : [link](https://drive.google.com/file/d/1Xz-jpevXdJne6oerzJOK5GKFfCqJSSmj/view?usp=sharing)
