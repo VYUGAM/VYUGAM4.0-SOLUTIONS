@@ -1,4 +1,4 @@
-# PBLm1 - EASY
+# Can you win the challenge? - EASY
 
 
 ```c++
