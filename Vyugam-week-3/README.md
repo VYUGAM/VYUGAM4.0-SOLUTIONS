@@ -20,6 +20,11 @@ Refer the solutions available in various languages.
 
 ### Problem-list
 
+1. CAN YOU WIN THE CHALLENGE? - EASY
+2. O/1 KNAPSACK PROBLEM - MEDIUM
+3. COINS CHANGE PROBLEM - HARD
+4. SQL - Second highest salary(sub queries)
+5. SQL - Pattern matching(2 LL's)
 
 ## Problem set-2
 Read the editorial present in the practice section problems below:
@@ -32,10 +37,12 @@ Refer the solutions available in various languages.
 
 ### Problem-list
 
+1. SORT ARRAY - EASY
+2. REVERSE WORDS -EASY
 
 # II) APTITUDE
 
-1. QUANTITATIVE APTITUDE - []()
+1. QUANTITATIVE APTITUDE - [pipes-and-cisterns](https://drive.google.com/file/d/1dGe-4980NrJn71JqojPOY99BsmP4rPYH/view?usp=sharing)
 2. LOGICAL APTITUDE - []()
 3. VERBAL APTITUDE - []()
-4. TECHNICAL APTITUDE - []()
+4. TECHNICAL APTITUDE - [type-def](https://drive.google.com/file/d/1x6h6Z4juTvC74XIi7ixXLeuWJhUwYB-U/view?usp=sharing)
