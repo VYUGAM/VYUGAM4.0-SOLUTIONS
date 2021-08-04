@@ -12,7 +12,7 @@ Find the topics and study resources for vyugam 4.0 week4 in the below google doc
 
 ## Problem set-1
 Read the editorial present in the practice section problems below:practice link = >
-<a href="https://www.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-2-3/">
+<a href="https://assessment.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-3/">
   <img src="https://cutshort.io/horizontal-og-image?img=https://cdn.cutshort.io/public/companies/57317456399e504f321f7f5d/hackerearth-logo" width="48"> 
 </a>
 [contest-link-set1](https://assessment.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-3/)
@@ -32,7 +32,7 @@ Refer the solutions available in various languages.
 
 ## Problem set-2
 Read the editorial present in the practice section problems below:practice link = >
-<a href="https://www.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-2-2/">
+<a href="https://assessment.hackerearth.com/challenges/college/cit-vyugam-40-week-4-coding-mechcivilchem-2022-batch/">
   <img src="https://cutshort.io/horizontal-og-image?img=https://cdn.cutshort.io/public/companies/57317456399e504f321f7f5d/hackerearth-logo" width="48"> 
 </a>
 [contest-link-set2](https://assessment.hackerearth.com/challenges/college/cit-vyugam-40-week-4-coding-mechcivilchem-2022-batch/)
