@@ -15,7 +15,7 @@ Read the editorial present in the practice section problems below:practice link 
 <a href="https://www.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-2-3/">
   <img src="https://cutshort.io/horizontal-og-image?img=https://cdn.cutshort.io/public/companies/57317456399e504f321f7f5d/hackerearth-logo" width="48"> 
 </a>
-[contest-link-set1]()
+[contest-link-set1](https://assessment.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-3/)
 <br>
 Editorial in pdf format : [link](https://drive.google.com/file/d/16Um8fPF6kp4kFbF0gulkNzIldsErleQJ/view?usp=sharing)
 <br>
@@ -35,7 +35,7 @@ Read the editorial present in the practice section problems below:practice link 
 <a href="https://www.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-2-2/">
   <img src="https://cutshort.io/horizontal-og-image?img=https://cdn.cutshort.io/public/companies/57317456399e504f321f7f5d/hackerearth-logo" width="48"> 
 </a>
-[contest-link-set2]()
+[contest-link-set2](https://assessment.hackerearth.com/challenges/college/cit-vyugam-40-week-4-coding-mechcivilchem-2022-batch/)
 <br>
 Editorial in pdf format : [link](https://drive.google.com/file/d/17u1isYZ5wvDpv66xn1-6FsjXGJj499OW/view?usp=sharing)
 <br>
@@ -52,4 +52,4 @@ Refer the solutions available in various languages.
 1. QUANTITATIVE APTITUDE - [Profit and loss](https://drive.google.com/file/d/1nD-pnhdSJiywRuSxaNVZmrx6TxThOaaU/view?usp=sharing)
 2. LOGICAL APTITUDE - [Statements and arguments]()
 3. VERBAL APTITUDE - [Antonyms]()
-4. TECHNICAL APTITUDE - [Bitwise operators](https://drive.google.com/drive/folders/17mrOdqUwgmlJh25tFkJZx9PzJR9qsbfU)
+4. TECHNICAL APTITUDE - [Bitwise operators](https://drive.google.com/file/d/19X5odrS65uJihP8DpD7IfxjxCex2_3J4/view?usp=sharing)
