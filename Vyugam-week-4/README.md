@@ -50,6 +50,6 @@ Refer the solutions available in various languages.
 # II) APTITUDE
 
 1. QUANTITATIVE APTITUDE - [Profit and loss](https://drive.google.com/file/d/1nD-pnhdSJiywRuSxaNVZmrx6TxThOaaU/view?usp=sharing)
-2. LOGICAL APTITUDE - [Statements and arguments]()
-3. VERBAL APTITUDE - [Antonyms]()
+2. LOGICAL APTITUDE - [Statements and arguments](https://drive.google.com/file/d/1A30ctOOS0I119J8SnjzQOo_rmvjqEwEL/view?usp=sharing)
+3. VERBAL APTITUDE - [Antonyms](https://drive.google.com/file/d/1n2kn-K6CuKgVVtWqS3ct_eTixNIfitat/view?usp=sharing)
 4. TECHNICAL APTITUDE - [Bitwise operators](https://drive.google.com/file/d/19X5odrS65uJihP8DpD7IfxjxCex2_3J4/view?usp=sharing)
