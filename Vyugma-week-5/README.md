@@ -12,10 +12,10 @@ Find the topics and study resources for vyugam 4.0 week4 in the below google doc
 
 ## Problem set-1
 Read the editorial present in the practice section problems below:practice link = >
-<a href=" ">
+<a href="https://assessment.hackerearth.com/challenges/college/cit-vyugam-40-week-5-coding-2022-batch-2/ ">
   <img src="https://cutshort.io/horizontal-og-image?img=https://cdn.cutshort.io/public/companies/57317456399e504f321f7f5d/hackerearth-logo" width="48"> 
 </a>
-[contest-link-set1]()
+[contest-link-set1](https://assessment.hackerearth.com/challenges/college/cit-vyugam-40-week-5-coding-2022-batch-2/)
 <br>
 Editorial in pdf format : [link](https://drive.google.com/file/d/1-rd2pqPbAiBSLJT0Se22dJO_VS_oXWwH/view?usp=sharing)
 <br>
@@ -32,10 +32,10 @@ Refer the solutions available in various languages.
 
 ## Problem set-2
 Read the editorial present in the practice section problems below:practice link = >
-<a href=" ">
+<a href="https://assessment.hackerearth.com/challenges/college/cit-vyugam-40-week-5-coding2022-batch/">
   <img src="https://cutshort.io/horizontal-og-image?img=https://cdn.cutshort.io/public/companies/57317456399e504f321f7f5d/hackerearth-logo" width="48"> 
 </a>
-[contest-link-set2]()
+[contest-link-set2](https://assessment.hackerearth.com/challenges/college/cit-vyugam-40-week-5-coding2022-batch/)
 <br>
 Editorial in pdf format : [link](https://drive.google.com/file/d/1KfSP12b0cgMdvZeBymPvUNbu9imfHaMF/view?usp=sharing)
 <br>
