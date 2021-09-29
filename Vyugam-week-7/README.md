@@ -12,10 +12,10 @@ Find the topics and study resources for vyugam 4.0 week 7 in the below google do
 
 ## Problem set-1
 Read the editorial present in the practice section problems below:practice link = >
-<a href="">
+<a href="https://assessment.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-2-13/">
   <img src="https://cutshort.io/horizontal-og-image?img=https://cdn.cutshort.io/public/companies/57317456399e504f321f7f5d/hackerearth-logo" width="48"> 
 </a>
-[contest-link-set1]()
+[contest-link-set1](https://assessment.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-2-13/)
 <br>
 Editorial in pdf format : [link]()
 <br>
@@ -32,10 +32,10 @@ Refer the solutions available in various languages.
 
 ## Problem set-2
 Read the editorial present in the practice section problems below:practice link = >
-<a href="">
+<a href="https://assessment.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-2-15/">
   <img src="https://cutshort.io/horizontal-og-image?img=https://cdn.cutshort.io/public/companies/57317456399e504f321f7f5d/hackerearth-logo" width="48"> 
 </a>
-[contest-link-set2]()
+[contest-link-set2](https://assessment.hackerearth.com/challenges/college/coimbatore-institute-of-technology-cit-test-draft-2-15/)
 <br>
 Editorial in pdf format : [link]()
 <br>
@@ -53,5 +53,4 @@ Refer the solutions available in various languages.
 2. LOGICAL APTITUDE - [Logical deduction](https://drive.google.com/file/d/1F0yahCgvBPwbvDTkxVMst1xbH44cHhtT/view?usp=sharing)
 3. VERBAL APTITUDE - [Completing statement](https://drive.google.com/file/d/1peK56S8LGp-TdlGGp11FcBHEhQUuW7gt/view?usp=sharing)
 4. TECHNICAL APTITUDE - [Command line arguments]()
-
 
